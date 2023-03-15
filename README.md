@@ -1,4 +1,4 @@
-Full Stack Developer with five years of experience developing and maintaining responsive websites. Specializing in a variety of technologies such as HTML, CSS, Javascript, React, and AngularJS. Providing strong attention to detail to produce notable software quality and customer satisfaction. Proven team player with excellent communication skills. Self-driven and passionate about programming and technology. Eager to be challenged and pushed to grow career and life.
+Accomplished Full Stack Developer with a proven track record in designing, developing, and maintaining responsive websites. Proficient in a wide range of technologies, including HTML, CSS, JavaScript, React, and AngularJS, and dedicated to delivering high-quality software solutions.
 
 <!--
 **kylejamesross/kylejamesross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
