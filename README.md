@@ -1,16 +1,11 @@
-Accomplished Full Stack Developer with a proven track record in designing, developing, and maintaining responsive websites. Proficient in a wide range of technologies, including HTML, CSS, JavaScript, React, and AngularJS, and dedicated to delivering high-quality software solutions.
-
-<!--
-**kylejamesross/kylejamesross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I am Kyle 👋
+<table>
+  <tr>
+    <td valign="center">
+      💼 I am currently a Software Developer at Nude Solutions.
+      🌳 I am currently working in web development as a Full-stack Developer.
+      🎯 My Goal is explore many new technologies and create some open source projects.
+      🔭 I am currently building up my blog and learning Rust.
+    </td>
+  </tr>
+  </table>
