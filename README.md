@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Implementing Light and Dark Modes for Websites](https://kylejamesross.com/posts/guide-to-implementing-light-and-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
