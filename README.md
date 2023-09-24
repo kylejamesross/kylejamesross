@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle Ross</h1>
 <h3 align="center">A full-stack developer from Canada</h3>
 
-- 🔭 I’m currently working on [Astro Portfolio](https://github.com/kylejamesross/astro-portfolio)
+- 🔭 I’m currently working on [react-search-suggestions-input](https://github.com/kylejamesross/react-search-suggestions-input)
 
 - 🌱 I’m currently learning **Rust**
 
@@ -17,7 +17,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Implementing Light and Dark Modes for Websites](https://kylejamesross.com/posts/guide-to-implementing-light-and-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
