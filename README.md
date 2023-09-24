@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://kylejamesross.com/](https://kylejamesross.com/)
+- 👨‍💻 All of my projects are available at [https://kylejamesross.com/](https://kylejamesross.com/projects)
 
 - 📝 I regularly write articles on [https://kylejamesross.com/posts/](https://kylejamesross.com/posts/)
 
