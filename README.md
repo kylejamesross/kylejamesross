@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ES2023 Features](https://kylejamesross.com/posts/es2023-features/)
 - [How to use Variable Fonts in CSS](https://kylejamesross.com/posts/how-to-use-variable-fonts/)
 - [Aspect Ratio in CSS](https://kylejamesross.com/posts/aspect-ratio-in-css/)
 - [Guide to Implementing Light and Dark Modes for Websites](https://kylejamesross.com/posts/guide-to-implementing-light-and-dark-mode/)
